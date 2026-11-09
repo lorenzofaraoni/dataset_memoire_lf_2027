@@ -42,9 +42,9 @@ This compilation is maintained as an open academic resource accompanying a Maste
 | **3** | [Zenodo Record 18325628](https://zenodo.org/records/18325628) | Zenodo | Excel |
 | **4** | [Zenodo Record 13919745](https://zenodo.org/records/13919745) | Zenodo | Excel |
 | **5** | [Zenodo Record 18902292](https://zenodo.org/records/18902292#1) | Zenodo | CSV |
-| **6** | [PLOS ONE (pone.0230558)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230558) | PLOS ONE | CSV |
+| **6** | [PLOS ONE (pone.0230558)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230558) | PLOS ONE | Excel |
 | **7** | [Mendeley Data (c9gbgcjjd5)](https://data.mendeley.com/datasets/c9gbgcjjd5/1) | Mendeley Data | Excel |
-| **8** | [PLOS ONE (pone.0241127)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241127#sec016) | PLOS ONE | CSV |
+| **8** | [PLOS ONE (pone.0241127)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241127#sec016) | PLOS ONE | ssps |
 | **9** | [OSF File (7zub2)](https://osf.io/9rbm5/files/7zub2) | OSF | CSV |
-| **10** | [OSF Overview (pqz86)](https://osf.io/pqz86/overview) | OSF | Repository |
+| **10** | [OSF Overview (pqz86)](https://osf.io/pqz86/overview) | OSF | CSV |
 | **11** | Master's Thesis Project | Academic / Research | Excel |
