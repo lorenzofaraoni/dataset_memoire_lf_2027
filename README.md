@@ -49,4 +49,4 @@ This compilation is maintained as an open academic resource accompanying a Maste
 | **10** | [OSF Overview (pqz86)](https://osf.io/pqz86/overview) | OSF | CSV |
 | **11** | Master's Thesis Project | Academic / Research | Excel |
 
-*instead of a single 4. file you will find 2 separate files (4.2 and 4.6) which correspond respectively to the 2nd and the 6th TAB of the original sheet, which could have not been uploaded due to its size (over 140MB)
+*instead of a single 4. file you will find 2 separate files (4.2 and 4.6) which correspond respectively to the 2nd and the 6th TAB of the original sheet, which could not have been uploaded due to its size (over 140MB)
